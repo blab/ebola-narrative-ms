@@ -1,0 +1,65 @@
+{
+  "title": "Private INRB // Genomic epidemiology // 2018-19 EBOV DRC",
+  "color_options": {
+    "gt": {
+      "menuItem": "genotype",
+      "legendTitle": "Genotype",
+      "type": "discrete",
+      "key": "genotype"
+    },
+    "num_date": {
+      "menuItem": "date",
+      "legendTitle": "Sampling date",
+      "type": "continuous",
+      "key": "num_date"
+    },
+    "authors": {
+      "key":"authors",
+      "legendTitle":"Authors",
+      "menuItem":"authors",
+      "type":"discrete"
+    },
+    "country": {
+    },
+    "health_zone": {
+      "key":"health_zone",
+      "legendTitle":"Health zone",
+      "menuItem":"health zone",
+      "type":"discrete"
+    },
+    "coverage": {
+      "key":"coverage",
+      "legendTitle":"Genome Coverage",
+      "menuItem":"Genome Coverage",
+      "type":"continuous"
+    },
+    "date_seq": {
+      "key":"date_seq",
+      "legendTitle":"Sequencing Date",
+      "menuItem":"Sequencing Date",
+      "type":"continuous"
+    },
+    "lab": {
+      "key":"lab",
+      "legendTitle":"Diagnostic Lab",
+      "menuItem":"Diagnostic Lab",
+      "type":"discrete"
+    }
+  },
+  "geo": [
+    "health_zone"
+  ],
+  "defaults": {
+    "colorBy": "health_zone",
+    "geoResolution": "health_zone"
+  },
+  "maintainer": [
+    "Catherine Pratt",
+    "mailto:catherine.pratt@unmc.edu"
+  ],
+  "filters": [
+    "country",
+    "health_zone",
+    "authors"
+  ]
+}
