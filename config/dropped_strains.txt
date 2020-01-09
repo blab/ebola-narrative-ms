@@ -21,5 +21,16 @@ MWG016 #causing issues with alignment
 KAT5550 #causing issues with alignment
 BTB9406 #causing issues with alignment
 MAM1133 #low coverage
-
-
+BEN39817 #funky alignment issues
+BTB32447 #funky alignment issues
+BEN39846 #funky alignment issues
+BEN40781 #funky alignment issues
+MAN8434 #funky alignment issues
+BEN234 #funky alignment issues
+MAN11190
+MAN035
+BEN269
+MAN9412
+KOM3614
+MAM1354
+MAN8291
