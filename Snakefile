@@ -17,7 +17,7 @@ rule files:
         colors = "config/colors.tsv",
         lat_longs = "config/lat_longs.tsv",
         auspice_config = "config/auspice_config.json",
-        root_name = "lab-outgroup",
+        root_name = "outgroup",
         clades = "config/clades.tsv"
 
 files = rules.files.params
