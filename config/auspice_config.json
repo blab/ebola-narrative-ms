@@ -1,5 +1,5 @@
 {
-  "title": "Private INRB // Genomic epidemiology // 2018-19 EBOV DRC",
+  "title": "Communicating genomic epidemiologic inferences during the 2018-2020 North-Kivu Ebola outbreak with Nextstrain Narratives",
   "color_options": {
     "gt": {
       "menuItem": "genotype",
@@ -54,8 +54,8 @@
     "geoResolution": "health_zone"
   },
   "maintainer": [
-    "Catherine Pratt",
-    "mailto:catherine.pratt@unmc.edu"
+    "Alli Black and James Hadfield",
+    "mailto:black.alli@gmail.com"
   ],
   "filters": [
     "country",
