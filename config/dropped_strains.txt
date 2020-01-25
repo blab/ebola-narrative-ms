@@ -27,10 +27,13 @@ BEN39846 #funky alignment issues
 BEN40781 #funky alignment issues
 MAN8434 #funky alignment issues
 BEN234 #funky alignment issues
-MAN11190
-MAN035
-BEN269
-MAN9412
-KOM3614
-MAM1354
-MAN8291
+MAN11190 #funky alignment issues
+MAN035 #funky alignment issues
+BEN269 #funky alignment issues
+MAN9412 #funky alignment issues
+KOM3614 #funky alignment issues
+MAM1354 #funky alignment issues
+MAN8291 #funky alignment issues
+BEN1543 #funky alignment issues
+KOM2902 #funky alignment issues
+MAN12490 #funky alignment issues
