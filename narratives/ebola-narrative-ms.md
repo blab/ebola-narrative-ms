@@ -6,7 +6,7 @@ dataset: "https://nextstrain.org/community/blab/ebola-narrative-ms"
 abstract: "This genomic epidemiology situation report describes different epidemiological dynamics that we observe in the genomic data. These different examples are described in the the paper, and are available interactively in this narrative as well."
 ---
 
-#[Broad-scale descriptive epidemiological dynamics](https://nextstrain.org/community/blab/ebola-narrative-ms&d=tree)
+#[Broad-scale descriptive epidemiological dynamics](https://nextstrain.org/community/blab/ebola-narrative-ms?d=tree)
 
 Text
 
