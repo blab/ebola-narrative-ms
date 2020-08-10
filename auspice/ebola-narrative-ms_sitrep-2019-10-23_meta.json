@@ -43,7 +43,7 @@
   },
   "author_info": {
     "Mbala et al.": {
-      "n": 379
+      "n": 433
     }
   },
   "color_options": {
@@ -348,6 +348,6 @@
     "entropy"
   ],
   "title": "Private INRB // Genomic epidemiology // 2018-19 EBOV DRC",
-  "updated": "21 Sep 2019",
-  "virus_count": 376
+  "updated": "23 Oct 2019",
+  "virus_count": 413
 }
