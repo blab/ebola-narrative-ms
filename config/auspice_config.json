@@ -1,65 +1,60 @@
 {
   "title": "Communicating genomic epidemiologic inferences during the 2018-2020 North-Kivu Ebola outbreak with Nextstrain Narratives",
-  "color_options": {
-    "gt": {
-      "menuItem": "genotype",
-      "legendTitle": "Genotype",
-      "type": "discrete",
+  "colorings": [
+    {
+      "title": "Genotype",
+      "type": "categorical",
       "key": "genotype"
     },
-    "num_date": {
-      "menuItem": "date",
-      "legendTitle": "Sampling date",
+    {
+      "title": "Sampling date",
       "type": "continuous",
       "key": "num_date"
     },
-    "authors": {
-      "key":"authors",
-      "legendTitle":"Authors",
-      "menuItem":"authors",
-      "type":"discrete"
+    {
+      "title":"Authors",
+      "key":"author",
+      "type":"categorical"
     },
-    "country": {
-    },
-    "health_zone": {
+    {
       "key":"health_zone",
-      "legendTitle":"Health zone",
-      "menuItem":"health zone",
-      "type":"discrete"
+      "title":"Health zone",
+      "type":"categorical"
     },
-    "coverage": {
+     {
       "key":"coverage",
-      "legendTitle":"Genome Coverage",
-      "menuItem":"Genome Coverage",
+      "title":"Genome Coverage",
       "type":"continuous"
     },
-    "date_seq": {
+    {
       "key":"date_seq",
-      "legendTitle":"Sequencing Date",
-      "menuItem":"Sequencing Date",
-      "type":"continuous"
+      "title":"Sequencing Date",
+      "type":"categorical"
     },
-    "lab": {
+    {
       "key":"lab",
-      "legendTitle":"Diagnostic Lab",
-      "menuItem":"Diagnostic Lab",
-      "type":"discrete"
+      "title":"Diagnostic Lab",
+      "type":"categorical"
+    },
+    {
+      "title":"Country",
+      "key":"country",
+      "type":"categorical"
     }
-  },
-  "geo": [
+  ],
+  "geo_resolutions": [
     "health_zone"
   ],
-  "defaults": {
-    "colorBy": "health_zone",
-    "geoResolution": "health_zone"
+  "display_defaults": {
+    "color_by": "health_zone",
+    "geo_resolution": "health_zone"
   },
-  "maintainer": [
-    "Alli Black and James Hadfield",
-    "mailto:black.alli@gmail.com"
+  "maintainers": [
+    {"name": "Alli Black", "url": "mailto:black.alli@gmail.com"},
+    {"name": "James Hadfield", "url": "mailto:jhadfiel@fredhutch.org"}
   ],
   "filters": [
-    "country",
     "health_zone",
-    "authors"
+    "lab"
   ]
 }

@@ -1,7 +1,5 @@
 MAN081 #second sample from same patient
-BTB513 #causing issues with alignment
 MAN082 #second sample from same patient
-BTB485 #causing issues with alignment
 MAN083 #second sample from same patient
 BTB20594 #identical to MAN5923
 KAT8927 #identical to MAN5923
@@ -17,24 +15,5 @@ MAN7856 #identical to MAN5923
 MAN7882 #identical to MAN5923
 BEN31891 #identical to MAN5923
 BTB24970 #identical to MAN5923
-MWG016 #causing issues with alignment
-KAT5550 #causing issues with alignment
-BTB9406 #causing issues with alignment
-MAM1133 #low coverage
-BEN39817 #funky alignment issues
-BTB32447 #funky alignment issues
-BEN39846 #funky alignment issues
-BEN40781 #funky alignment issues
-MAN8434 #funky alignment issues
-BEN234 #funky alignment issues
-MAN11190 #funky alignment issues
-MAN035 #funky alignment issues
-BEN269 #funky alignment issues
-MAN9412 #funky alignment issues
-KOM3614 #funky alignment issues
-MAM1354 #funky alignment issues
-MAN8291 #funky alignment issues
-BEN1543 #funky alignment issues
-KOM2902 #funky alignment issues
-MAN12490 #funky alignment issues
-BTB518 #funky alignment issues
+MAN1146 # completely unknown sample collection date (XXXX-XX-XX)
+BTB24970 # completely unknown sample collection date (XXXX-XX-XX)

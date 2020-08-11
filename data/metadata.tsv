@@ -1,5 +1,5 @@
 strain	virus	date_symptom_onset	date	health_zone	province	country	authors
-outgroup	ebola		2018-05-19	Unknown	Equateur	Democratic_Republic_of_the_Congo	Mbala et al.
+MK007329.1	ebola		2018-10-30	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.
 18FHV089	ebola	2018-07-25	2018-07-27	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.
 18FHV090	ebola		2018-07-28	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.
 BEN018	ebola		2018-08-03	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.
