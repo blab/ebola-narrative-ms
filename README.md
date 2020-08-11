@@ -17,3 +17,12 @@ I employed a banded-alignment approach with manual editing in AliView.
 * n=809 sequences (including reference + outgroup)
 
 
+### Grab extra metadata from the private build
+
+The `data/metadata.tsv` of 56c31af6276f394a9a21ba99de02d46c6d764ef6 was updated to include a few extra columns via:
+
+```
+python scripts/extract_private_metadata.py data/metadata.tsv ~/github/nextstrain/inrb-drc-private/data/metadata.tsv > data/metadata_extra.tsv
+diff diff data/metadata.tsv data/metadata_extra.tsv # check by eye
+mv data/metadata_extra.tsv data/metadata.tsv
+```

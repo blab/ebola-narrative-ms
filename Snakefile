@@ -220,7 +220,7 @@ rule export:
         colors = files.colors,
         lat_longs = files.lat_longs,
         clades = rules.clades.output.clade_data,
-        auspice_config = files.auspice_config
+        auspice_config = files.auspice_config,
     output:
         auspice = rules.all.input.auspice
     shell:
