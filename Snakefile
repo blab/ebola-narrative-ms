@@ -41,10 +41,38 @@ rule filter:
             --output {output.sequences} \
         """
 
+rule remove_potential_sequencing_errors:
+    message:
+        """
+        Removing SNPs which flank regions of Ns as they are probably be sequencing errors
+        """
+    input:
+        sequences = rules.filter.output.sequences
+    output:
+        sequences = "results/filtered_errors_removed.fasta"
+    shell:
+        """
+        python scripts/remove_SNPs_flanking_Ns.py --input {input.sequences} --output {output.sequences}
+        """
+
+rule remove_potential_adar_mutations:
+    message:
+        """
+        Removing SNPs which look like ADAR mutations
+        """
+    input:
+        sequences = rules.remove_potential_sequencing_errors.output.sequences
+    output:
+        sequences = "results/filtered_errors_removed_no_adar.fasta"
+    shell:
+        """
+        python scripts/remove_ADAR_edits.py --input {input.sequences} --output {output.sequences}
+        """
+
 rule tree:
     message: "Building tree"
     input:
-        alignment = rules.filter.output.sequences
+        alignment = rules.remove_potential_adar_mutations.output.sequences
     output:
         tree = "results/tree_raw.nwk"
     shell:
@@ -100,7 +128,7 @@ rule refine:
         """
     input:
         tree = rules.prune_outgroup.output.tree,
-        alignment = rules.filter.output.sequences,
+        alignment = rules.remove_potential_adar_mutations.output.sequences,
         metadata = files.metadata,
     output:
         tree = "results/tree.nwk",
@@ -142,7 +170,7 @@ rule ancestral:
     message: "Reconstructing ancestral sequences and mutations"
     input:
         tree = rules.refine.output.tree,
-        alignment = rules.filter.output.sequences,
+        alignment = rules.remove_potential_adar_mutations.output.sequences,
     output:
         node_data = "results/nt_muts.json"
     params:
