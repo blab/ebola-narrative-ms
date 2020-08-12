@@ -5,7 +5,7 @@
 
 rule all:
     input:
-        auspice = "auspice/ebola_nord-kivu_manuscript.json"
+        auspice = "auspice/ebola-narrative-ms.json"
 
 rule files:
     params:
