@@ -1,0 +1,60 @@
+{
+  "title": "Communicating genomic epidemiologic inferences during the 2018-2020 North-Kivu Ebola outbreak with Nextstrain Narratives",
+  "colorings": [
+    {
+      "title": "Genotype",
+      "type": "categorical",
+      "key": "genotype"
+    },
+    {
+      "title": "Sampling date",
+      "type": "continuous",
+      "key": "num_date"
+    },
+    {
+      "title":"Authors",
+      "key":"author",
+      "type":"categorical"
+    },
+    {
+      "key":"health_zone",
+      "title":"Health zone",
+      "type":"categorical"
+    },
+     {
+      "key":"coverage",
+      "title":"Genome Coverage",
+      "type":"continuous"
+    },
+    {
+      "key":"date_seq",
+      "title":"Sequencing Date",
+      "type":"categorical"
+    },
+    {
+      "key":"lab",
+      "title":"Diagnostic Lab",
+      "type":"categorical"
+    },
+    {
+      "title":"Country",
+      "key":"country",
+      "type":"categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "health_zone"
+  ],
+  "display_defaults": {
+    "color_by": "health_zone",
+    "geo_resolution": "health_zone"
+  },
+  "maintainers": [
+    {"name": "Alli Black", "url": "mailto:black.alli@gmail.com"},
+    {"name": "James Hadfield", "url": "mailto:jhadfiel@fredhutch.org"}
+  ],
+  "filters": [
+    "health_zone",
+    "lab"
+  ]
+}
