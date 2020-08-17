@@ -1,4 +1,4 @@
-/results/
+results/
 .snakemake/
 /ignore/
 .DS_Store

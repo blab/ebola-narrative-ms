@@ -6,15 +6,15 @@ rule all:
 
 rule files:
     params:
-        manually_aligned_sequences = "data/manual_alignment.fasta",
-        metadata = "data/metadata.tsv",
-        dropped_strains = "config/dropped_strains.txt",
-        reference = "config/reference.gb",
-        colors = "config/colors.tsv",
-        lat_longs = "config/lat_longs.tsv",
-        auspice_config = "config/auspice_config.json",
+        manually_aligned_sequences = "../data/manual_alignment.fasta",
+        metadata = "../data/metadata.tsv",
+        dropped_strains = "../config/dropped_strains.txt",
+        reference = "../config/reference.gb",
+        colors = "../config/colors.tsv",
+        lat_longs = "../config/lat_longs.tsv",
+        auspice_config = "../config/auspice_config.json",
         root_name = "MK007329.1",
-        clades = "config/clades.tsv"
+        clades = "../config/clades.tsv"
 
 files = rules.files.params
 
@@ -60,7 +60,7 @@ rule remove_potential_sequencing_errors:
         sequences = "results/filtered_errors_removed_{num_seqs}perHZmonth.fasta"
     shell:
         """
-        python scripts/remove_SNPs_flanking_Ns.py --input {input.sequences} --output {output.sequences}
+        python ../scripts/remove_SNPs_flanking_Ns.py --input {input.sequences} --output {output.sequences}
         """
 
 rule remove_potential_adar_mutations:
@@ -74,7 +74,7 @@ rule remove_potential_adar_mutations:
         sequences = "results/filtered_errors_removed_no_adar_{num_seqs}perHZmonth.fasta"
     shell:
         """
-        python scripts/remove_ADAR_edits.py --input {input.sequences} --output {output.sequences}
+        python ../scripts/remove_ADAR_edits.py --input {input.sequences} --output {output.sequences}
         """
 
 rule tree:
