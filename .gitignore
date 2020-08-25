@@ -3,3 +3,5 @@ results/
 /ignore/
 .DS_Store
 .ipynb_checkpoints/
+/notebooks/private_datasets
+/notebooks/public_datasets
