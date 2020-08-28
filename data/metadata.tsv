@@ -26,7 +26,7 @@ MAN003	ebola	2018-08-06	2018-08-12	Mandima	Ituri	Democratic_Republic_of_the_Cong
 MAN006	ebola	2018-08-05	2018-08-12	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9937	2018-08-29	Mangina
 MAN020	ebola	2018-08-03	2018-08-13	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9979	2018-08-29	Mangina
 MAN025	ebola	2018-08-05	2018-08-13	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9992	2018-08-29	Mangina
-MAN028	ebola		2018-08-13	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9967	2018-08-29	Mangina
+MAN028	ebola		2018-08-13	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9967	2018-08-29	Mangina
 MAN035	ebola		2018-08-15	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.8613	2018-08-31	Mangina
 MAN036	ebola	2018-07-18	2018-08-15	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9991	2018-08-31	Mangina
 MAN037	ebola	2018-08-13	2018-08-15	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9939	2018-08-31	Mangina
@@ -37,7 +37,7 @@ MAN046	ebola	2018-08-10	2018-08-15	Mabalako	Nord-Kivu	Democratic_Republic_of_the
 MAN048	ebola	2018-08-11	2018-08-15	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9973	2018-08-31	Mangina
 MAN059	ebola	2018-08-09	2018-08-16	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.8359	2018-08-31	Mangina
 MAN065	ebola	2018-08-08	2018-08-16	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9986	2018-08-31	Mangina
-BEN214	ebola		2018-08-20	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9987	2018-10-09	Beni
+BEN214	ebola		2018-08-20	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9987	2018-10-09	Beni
 MAN112	ebola	2018-08-15	2018-08-21	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.8048	2018-11-24	Mangina
 BEN225	ebola	2018-08-21	2018-08-23	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9973	2018-10-12	Beni
 BEN230	ebola	2018-07-12	2018-08-24	Oicha	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9973	2018-10-12	Beni
@@ -129,10 +129,10 @@ BTB778	ebola		2018-11-18	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala 
 BEN2078	ebola	2018-11-14	2018-11-18	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9988	2019-01-08	Beni
 BEN2079	ebola	2018-11-15	2018-11-18	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9987	2019-01-08	Beni
 BEN2099	ebola	2018-11-13	2018-11-18	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9987	2019-01-08	Beni
-MAN823	ebola		2018-11-18	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9998	2020-03-10	Mangina
+MAN823	ebola		2018-11-18	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9998	2020-03-10	Mangina
 BEN2193	ebola	2018-11-10	2018-11-19	Mutwanga	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.986	2019-01-11	Beni
 BTB835	ebola	2018-11-16	2018-11-19	Butembo	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9987	2019-04-29	Butembo
-MAN839	ebola		2018-11-19	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9987	2020-03-10	Mangina
+MAN839	ebola		2018-11-19	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9987	2020-03-10	Mangina
 BTB841	ebola		2018-11-20	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9653	2018-12-29	Butembo
 BTB842	ebola	2018-11-17	2018-11-20	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9986	2018-12-29	Butembo
 BTB843	ebola		2018-11-20	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9973	2018-12-29	Butembo
@@ -142,7 +142,7 @@ BTB832	ebola	2018-11-14	2018-11-20	Butembo	Nord-Kivu	Democratic_Republic_of_the_
 BTB870	ebola	2018-11-13	2018-11-21	Butembo	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9988	2020-03-11	Butembo
 BEN2329	ebola	2018-11-15	2018-11-22	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9983	2019-01-08	Beni
 BEN2332	ebola	2018-11-21	2018-11-22	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9973	2019-01-08	Beni
-BTB893	ebola		2018-11-22	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9987	2020-03-11	Butembo
+BTB893	ebola		2018-11-22	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9987	2020-03-11	Butembo
 BTB896	ebola	2018-11-14	2018-11-22	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9988	2020-03-11	Butembo
 BEN2357	ebola	2018-11-18	2018-11-23	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9983	2019-01-08	Beni
 BTB933	ebola	2018-11-16	2018-11-23	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9990000000000001	2019-04-29	Butembo
@@ -150,16 +150,16 @@ BTB957	ebola	2018-11-18	2018-11-23	Katwa	Nord-Kivu	Democratic_Republic_of_the_Co
 BTB922	ebola	2018-11-04	2018-11-23	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.992	2020-03-09	Butembo
 BTB928	ebola	2018-11-15	2018-11-23	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9994	2020-03-11	Butembo
 BEN2413	ebola		2018-11-24	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9086	2020-03-09	Beni
-BTB1007	ebola		2018-11-24	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.993	2020-03-10	Butembo
-BTB1008	ebola		2018-11-24	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.8823	2020-03-11	Butembo
+BTB1007	ebola		2018-11-24	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.993	2020-03-10	Butembo
+BTB1008	ebola		2018-11-24	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.8823	2020-03-11	Butembo
 BTB969	ebola	2018-11-19	2018-11-24	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9985	2020-03-13	Butembo
 BEN2510	ebola	2018-11-18	2018-11-25	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.997	2019-01-11	Beni
 BTB1121	ebola	2018-11-15	2018-11-25	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9902	2019-04-10	Butembo
 BTB1028	ebola	2018-11-23	2018-11-25	Butembo	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9998	2020-03-10	Butembo
-BTB1013	ebola		2018-11-25	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9987	2020-03-11	Butembo
+BTB1013	ebola		2018-11-25	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9987	2020-03-11	Butembo
 BTB1080	ebola	2018-11-23	2018-11-26	Vuhovi	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9455	2020-03-11	Butembo
 BTB1138	ebola	2018-11-27	2018-11-28	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9995	2019-04-29	Butembo
-BTB1145	ebola		2018-11-28	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9990000000000001	2020-03-13	Butembo
+BTB1145	ebola		2018-11-28	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9990000000000001	2020-03-13	Butembo
 BTB1242	ebola	2018-11-16	2018-12-01	Masereka	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9638	2020-03-13	Butembo
 BTB1284	ebola	2018-12-01	2018-12-02	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9512	2019-04-18	Butembo
 BTB1259	ebola	2018-11-29	2018-12-02	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9991	2020-03-13	Butembo
@@ -179,19 +179,19 @@ BEN3652	ebola	2018-10-31	2018-12-11	Beni	Nord-Kivu	Democratic_Republic_of_the_Co
 BTB1658	ebola	2018-12-05	2018-12-11	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9996	2020-03-09	Butembo
 MAN1046	ebola	2018-12-06	2018-12-12	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9984	2019-01-30	Mangina
 MAN1051	ebola	2018-12-05	2018-12-12	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9906	2020-03-09	Mangina
-BTB1674	ebola		2018-12-12	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9599	2020-03-13	Butembo
-BTB1684	ebola		2018-12-12	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9611	2020-03-11	Butembo
-BTB1685	ebola		2018-12-12	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9947	2020-03-11	Butembo
-BTB1736	ebola		2018-12-13	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.988	2020-03-09	Butembo
+BTB1674	ebola		2018-12-12	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9599	2020-03-13	Butembo
+BTB1684	ebola		2018-12-12	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9611	2020-03-11	Butembo
+BTB1685	ebola		2018-12-12	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9947	2020-03-11	Butembo
+BTB1736	ebola		2018-12-13	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.988	2020-03-09	Butembo
 MAN1066	ebola	2018-12-07	2018-12-14	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9955	2019-03-23	Mangina
 BTB1746	ebola	2018-12-07	2018-12-14	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9990000000000001	2020-03-11	Butembo
 BTB1747	ebola	2018-12-05	2018-12-14	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9813	2020-03-11	Butembo
 BEN4020	ebola	2018-12-07	2018-12-15	Oicha	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.8662	2019-02-13	Beni
 BTB1794	ebola	2018-12-10	2018-12-15	Butembo	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9944	2020-03-09	Butembo
 BTB1810	ebola	2018-12-05	2018-12-15	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9894	2020-03-11	Butembo
-MAN1080	ebola		2018-12-16	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9996	2020-03-09	Mangina
-BTB1839	ebola		2018-12-16	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9934	2020-03-10	Butembo
-BTB1840	ebola		2018-12-16	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9972	2020-03-13	Butembo
+MAN1080	ebola		2018-12-16	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9996	2020-03-09	Mangina
+BTB1839	ebola		2018-12-16	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9934	2020-03-10	Butembo
+BTB1840	ebola		2018-12-16	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9972	2020-03-13	Butembo
 BTB1877	ebola	2018-12-02	2018-12-16	Butembo	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9874	2020-03-13	Butembo
 BTB1881	ebola	2018-12-07	2018-12-16	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9990000000000001	2020-03-11	Butembo
 BUN058	ebola	2018-11-30	2018-12-17	Oicha	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9987	2019-01-30	Bunia
@@ -207,7 +207,7 @@ BTB2189	ebola		2018-12-22	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala
 BTB2194	ebola	2018-12-20	2018-12-22	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9901	2020-03-13	Butembo
 MAN1152	ebola	2018-12-21	2018-12-23	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9685	2019-02-13	Mangina
 BTB2196	ebola	2018-12-21	2018-12-23	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9989	2020-03-13	Butembo
-BTB2205	ebola		2018-12-23	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9990000000000001	2020-03-13	Butembo
+BTB2205	ebola		2018-12-23	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9990000000000001	2020-03-13	Butembo
 BEN4627	ebola	2018-12-12	2018-12-24	Oicha	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9318	2019-01-30	Beni
 MAN1159	ebola	2018-12-22	2018-12-24	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9998	2020-03-09	Mangina
 BTB2321	ebola		2018-12-25	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9996	2020-03-09	Butembo
@@ -251,7 +251,7 @@ BEN7120	ebola	2019-01-24	2019-01-28	Beni	Nord-Kivu	Democratic_Republic_of_the_Co
 BEN7129	ebola	2019-01-26	2019-01-28	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9895	2019-04-18	Beni
 BTB4325	ebola	2019-01-05	2019-01-28	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9904	2019-04-18	Butembo
 BTB4414	ebola	2019-01-18	2019-01-29	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9907	2019-04-10	Butembo
-BTB4376	ebola		2019-01-29	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.8525	2019-04-23	Butembo
+BTB4376	ebola		2019-01-29	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.8525	2019-04-23	Butembo
 BTB4690	ebola	2019-01-25	2019-02-01	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9968	2019-04-10	Butembo
 BTB4836	ebola	2019-01-31	2019-02-03	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.996	2019-04-10	Butembo
 BTB5015	ebola	2019-01-22	2019-02-05	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9986	2019-04-10	Butembo
@@ -271,7 +271,7 @@ BTB6236	ebola	2019-02-19	2019-02-25	Katwa	Nord-Kivu	Democratic_Republic_of_the_C
 BTB6375	ebola	2019-02-17	2019-02-27	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9386	2019-06-10	Butembo
 KAT1428	ebola	2019-03-04	2019-03-05	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9973	2019-06-07	Katwa
 BTB6848	ebola	2019-03-07	2019-03-08	Katwa	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9917	2019-05-02	Butembo
-BTB6880	ebola	2019-03-07	2019-03-09	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.983	2019-05-02	Butembo
+BTB6880	ebola	2019-03-07	2019-03-09	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.983	2019-05-02	Butembo
 BTB6881	ebola		2019-03-09	Butembo	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9888	2019-05-02	Butembo
 BTB6908	ebola	2019-03-06	2019-03-09	Biena	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9875	2019-05-02	Butembo
 BTB6946	ebola	2019-03-03	2019-03-10	Butembo	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9841	2019-05-02	Butembo
@@ -461,7 +461,7 @@ BTB23817	ebola		2019-08-20	Kayna	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbal
 BEN29679	ebola	2019-08-10	2019-08-21	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.		2019-09-19	Beni
 BEN29683	ebola	2019-08-17	2019-08-21	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.		2019-09-19	Beni
 BTB24057	ebola		2019-08-22	Kayna	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9989	2019-09-06	Butembo
-KOM2823	ebola		2019-08-23	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9978	2019-10-12	Komanda
+KOM2823	ebola		2019-08-23	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9978	2019-10-12	Komanda
 MAN7600	ebola	2019-08-13	2019-08-23	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9985	2019-09-17	Mangina
 BTB24232	ebola		2019-08-24	Kayna	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9303	2019-09-06	Butembo
 BEN30125	ebola	2019-08-20	2019-08-24	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.		2019-09-19	Beni
@@ -469,7 +469,7 @@ BTB24518	ebola		2019-08-25	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	
 KOM2855	ebola	2019-08-21	2019-08-25	Komanda	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9821	2019-10-12	Komanda
 KOM2844	ebola	2019-08-20	2019-08-25	Komanda	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9874	2019-12-23	Komanda
 BTB24630	ebola		2019-08-26	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9991	2019-09-06	Butembo
-MWG016	ebola	2019-08-25	2019-08-26	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.6996	2019-10-11	Mwenga
+MWG016	ebola	2019-08-25	2019-08-26	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.6996	2019-10-11	Mwenga
 KOM2884	ebola	2019-08-18	2019-08-26	Mambasa	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9946	2019-10-12	Komanda
 MAN7716	ebola	2019-08-19	2019-08-26	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9989	2019-09-17	Mangina
 KAT10686	ebola		2019-08-27	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9990000000000001	2019-09-06	Katwa
@@ -477,11 +477,11 @@ BEN30424	ebola	2019-08-23	2019-08-27	Beni	Nord-Kivu	Democratic_Republic_of_the_C
 BEN30473	ebola	2019-08-23	2019-08-27	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.		2019-09-19	Beni
 BEN30481	ebola	2019-08-25	2019-08-27	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.		2019-09-19	Beni
 MAN7742	ebola	2019-08-19	2019-08-27	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.		2019-09-19	Mangina
-MWG017	ebola	2019-08-23	2019-08-27	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9956	2019-10-11	Mwenga
+MWG017	ebola	2019-08-23	2019-08-27	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9956	2019-10-11	Mwenga
 KOM2902	ebola		2019-08-27	Mambasa	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.6206	2019-10-12	Komanda
 BTB24909	ebola		2019-08-28	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9988	2019-09-06	Butembo
 BTB24923	ebola		2019-08-28	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9991	2019-09-06	Butembo
-MAN7771	ebola	2019-08-27	2019-08-28	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.		2019-09-19	Mangina
+MAN7771	ebola	2019-08-27	2019-08-28	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.		2019-09-19	Mangina
 KOM2933	ebola	2019-08-26	2019-08-28	Mambasa	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.8374	2019-10-12	Komanda
 MAN7787	ebola	2019-08-15	2019-08-28	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9991	2019-09-17	Mangina
 BEN30680	ebola		2019-08-29	Mutwanga	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9988	2019-09-17	Beni
@@ -511,7 +511,7 @@ BEN31553	ebola	2019-09-01	2019-09-05	Mandima	Ituri	Democratic_Republic_of_the_Co
 BEN31595	ebola	2019-09-04	2019-09-05	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.		2019-09-19	Beni
 BEN31602	ebola	2019-08-30	2019-09-05	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.		2019-09-19	Beni
 MAM002	ebola	2019-08-29	2019-09-05	Mambasa	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.998	2019-10-19	Mambasa
-BEN31926	ebola	2019-09-03	2019-09-07	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9988	2019-09-19	Beni
+BEN31926	ebola	2019-09-03	2019-09-07	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9988	2019-09-19	Beni
 MAN8153	ebola		2019-09-07	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9991	2019-09-19	Mangina
 MAM025	ebola	2019-09-01	2019-09-07	Mambasa	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.925	2019-10-02	Mambasa
 BEN31891	ebola	2019-09-02	2019-09-07	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.		2019-09-19	Beni
@@ -551,7 +551,7 @@ MAN8618	ebola	2019-09-12	2019-09-20	Mandima	Ituri	Democratic_Republic_of_the_Con
 BEN33857	ebola	2019-09-15	2019-09-20	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9988	2020-03-23	Beni
 MAN8691	ebola	2019-09-11	2019-09-20	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9938	2020-03-27	Mangina
 KOM3348	ebola	2019-09-09	2019-09-21	Mambasa	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9262	2020-02-25	Komanda
-KOM3350	ebola	2019-09-11	2019-09-21	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.97	2020-02-25	Komanda
+KOM3350	ebola	2019-09-11	2019-09-21	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.97	2020-02-25	Komanda
 KOM3396	ebola	2019-09-14	2019-09-21	Mambasa	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9046	2020-02-25	Komanda
 MAN8662	ebola	2019-08-16	2019-09-21	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.8315	2020-02-28	Mangina
 MAN8665	ebola	2019-09-13	2019-09-21	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9631	2020-02-28	Mangina
@@ -580,7 +580,7 @@ KAT13552	ebola	2019-10-01	2019-10-02	Katwa	Nord-Kivu	Democratic_Republic_of_the_
 MAN9267	ebola	2019-09-21	2019-10-03	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9984	2019-10-20	Mangina
 KOM3614	ebola	2019-10-01	2019-10-03	Lolwa	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.7686	2019-12-12	Komanda
 MAN9216	ebola	2019-09-27	2019-10-03	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9858	2019-12-19	Mangina
-BEN35617	ebola	2019-09-29	2019-10-04	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9325	2019-11-05	Beni
+BEN35617	ebola	2019-09-29	2019-10-04	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9325	2019-11-05	Beni
 MAN9389	ebola	2019-10-02	2019-10-07	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.7363	2019-12-23	Mangina
 BEN35973	ebola	2019-09-30	2019-10-07	Oicha	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9995	2020-02-27	Beni
 MAN9412	ebola	2019-10-02	2019-10-08	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.6971	2019-11-10	Mangina
@@ -603,7 +603,7 @@ MAN9698	ebola	2019-10-11	2019-10-15	Mandima	Ituri	Democratic_Republic_of_the_Con
 BIA023	ebola	2019-10-12	2019-10-15	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9888	2019-12-23	Biakato
 MAN9737	ebola	2019-10-15	2019-10-16	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9983	2019-12-19	Mangina
 BEN37188	ebola	2019-10-08	2019-10-16	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9992	2020-02-28	Beni
-BEN37396	ebola	2019-10-15	2019-10-17	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9999	2019-11-05	Beni
+BEN37396	ebola	2019-10-15	2019-10-17	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9999	2019-11-05	Beni
 MAM1011	ebola	2019-10-15	2019-10-17	Mambasa	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9983	2019-12-12	Mambasa
 MAN9800	ebola	2019-10-15	2019-10-18	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9977	2020-03-24	Mangina
 MAN9868	ebola	2019-10-19	2019-10-19	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9353	2019-11-05	Mangina
@@ -648,8 +648,8 @@ MAN10900	ebola	2019-11-04	2019-11-06	Mabalako	Nord-Kivu	Democratic_Republic_of_t
 MAN11046	ebola	2019-11-03	2019-11-09	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9995	2019-12-12	Mangina
 MAN11190	ebola	2019-11-09	2019-11-11	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.5157	2019-12-12	Mangina
 BEN40801	ebola	2019-11-11	2019-11-12	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.7489	2019-11-25	Beni
-MAN11230	ebola	2019-11-09	2019-11-12	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9897	2019-12-17	Mangina
-MAN11283	ebola	2019-11-11	2019-11-13	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9992	2019-11-25	Mangina
+MAN11230	ebola	2019-11-09	2019-11-12	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9897	2019-12-17	Mangina
+MAN11283	ebola	2019-11-11	2019-11-13	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9992	2019-11-25	Mangina
 BEN41281	ebola	2019-11-07	2019-11-17	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9997	2019-11-25	Beni
 BEN41359	ebola	2019-11-11	2019-11-17	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.		2019-12-12	Beni
 MAN11531	ebola	2019-11-15	2019-11-17	Mabalako	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9074	2019-12-19	Mangina
@@ -770,13 +770,13 @@ BEN55737	ebola		2020-04-15	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala
 BEN55815	ebola		2020-04-16	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.978	2020-04-22	Beni
 BEN55850	ebola		2020-04-17	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.985	2020-04-22	Beni
 BEN56534	ebola	2020-04-26	2020-04-27	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.988	2020-05-02	Beni
-BEN3224	ebola		2018-12-XX	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.7972	2019-03-23	Beni
-BEN3232	ebola		2018-12-XX	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9937	2019-03-23	Beni
-KAT5497	ebola		2019-06-XX	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9915	2019-07-16	Katwa
+BEN3224	ebola		2018-12-XX	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.7972	2019-03-23	Beni
+BEN3232	ebola		2018-12-XX	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9937	2019-03-23	Beni
+KAT5497	ebola		2019-06-XX	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9915	2019-07-16	Katwa
 BUN1349	ebola		2019-06-XX	Bunia	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9399	2019-08-08	Bunia
 BEN24739	ebola	2019-06-15	2019-06-XX	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9975	2020-06-19	Beni
-KAT7440	ebola		2019-07-XX	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.8939	2019-07-26	Katwa
-BEN22419	ebola		2019-07-XX	Unknown	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.7441	2019-08-01	Beni
+KAT7440	ebola		2019-07-XX	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.8939	2019-07-26	Katwa
+BEN22419	ebola		2019-07-XX	?	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.7441	2019-08-01	Beni
 BEN22364	ebola	2019-07-02	2019-07-XX	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9866	2020-06-19	Beni
 BEN22632	ebola	2019-07-07	2019-07-XX	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9434	2020-06-19	Beni
 BEN22643	ebola	2019-07-02	2019-07-XX	Beni	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9972	2020-06-19	Beni
@@ -802,8 +802,8 @@ BIA089	ebola	2019-XX-XX	2019-10-XX	Mandima	Ituri	Democratic_Republic_of_the_Cong
 BIA055	ebola	2019-10-15	2019-10-XX	Mandima	Ituri	Democratic_Republic_of_the_Congo	Mbala et al.	0.9995	2019-11-05	Biakato
 KAT21808	ebola	2019-12-XX	2019-12-XX	Butembo	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.8881	2020-01-11	Katwa
 BTB30896	ebola	2019-XX-XX	2019-XX-XX	Kalunguta	Nord-Kivu	Democratic_Republic_of_the_Congo	Mbala et al.	0.9994	2019-10-19	Butembo
-MAN1190	ebola	2019-XX-XX	2019-XX-XX	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9997	2019-12-19	Mangina
-MAN3176	ebola	2019-XX-XX	2019-XX-XX	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9755	2019-12-19	Mangina
-MAN9840	ebola	2019-XX-XX	2019-XX-XX	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9584	2019-12-19	Mangina
-BTB24970	ebola	XXXX-XX-XX	XXXX-XX-XX	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.		2019-09-19	Butembo
-MAN1146	ebola	XXXX-XX-XX	XXXX-XX-XX	Unknown	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9996	2020-03-10	Mangina
+MAN1190	ebola	2019-XX-XX	2019-XX-XX	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9997	2019-12-19	Mangina
+MAN3176	ebola	2019-XX-XX	2019-XX-XX	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9755	2019-12-19	Mangina
+MAN9840	ebola	2019-XX-XX	2019-XX-XX	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9584	2019-12-19	Mangina
+BTB24970	ebola	XXXX-XX-XX	XXXX-XX-XX	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.		2019-09-19	Butembo
+MAN1146	ebola	XXXX-XX-XX	XXXX-XX-XX	?	Unknown	Democratic_Republic_of_the_Congo	Mbala et al.	0.9996	2020-03-10	Mangina
