@@ -5,6 +5,11 @@ This repository represents the analysis and code behind Kinganda-Lusamaki _et al
 
 # Jupyter notebooks
 
+The analysis in the paper was performed using Jupyter notebooks.
+The analysis was performed in a [Nextstrain conda environment](https://nextstrain.org/docs/getting-started/local-installation#install-augur--auspice-with-conda-recommended) which will give you the necessary python libraries.
+
+Figure 1 is produced by `notebooks/lags.ipynb`.
+
 
 # Extended methods
 
