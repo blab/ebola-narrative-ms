@@ -17,8 +17,10 @@ Full resolution figures can be found in `./figures`.
 
 
 
+**Supplementary Figures 2 & 3**, "Patterns of transmission between health zones (HZ)" and "Viral movements are robust to subsampling" are produced by the same notebook as Figure 3 (`./notebooks/chains.ipynb`).
 
-**Supplementary Figure 2 & 3** is produced by the same notebook as Figure 3 (`./notebooks/chains.ipynb`)
+**Supplementary Figure 4**, "The outbreak was sustained by movement between health zones", is produced by `./notebooks/exploded_tree.ipynb`.
+
 
 # Extended methods
 
