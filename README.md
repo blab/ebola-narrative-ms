@@ -15,12 +15,13 @@ Full resolution figures can be found in `./figures`.
 
 **Figure 3**, "Transmission patterns within and between health zones", as well as corresponding supplementary figures, are produced by `./notebooks/chains.ipynb`
 
-
+**Figure 4**, "Initial genomic evidence for an infection relapse event" was created similarly to Figure 2. 
 
 **Supplementary Figures 2 & 3**, "Patterns of transmission between health zones (HZ)" and "Viral movements are robust to subsampling" are produced by the same notebook as Figure 3 (`./notebooks/chains.ipynb`).
 
 **Supplementary Figure 4**, "The outbreak was sustained by movement between health zones", is produced by `./notebooks/exploded_tree.ipynb`.
 
+**Supplementary Figures 5 & 6**, "Genomic characterization of transmission after unsafe burial of a pastor" and "Secondary transmission associated with infection of a motorcycle taxi driver", are produced from Auspice screenshots of the `./auspice/ebola-narrative-ms_full-build.json` dataset with additional manual annotations.
 
 # Extended methods
 
