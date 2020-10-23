@@ -3,13 +3,22 @@
 This repository represents the analysis and code behind Kinganda-Lusamaki _et al._, currently available at https://www.medrxiv.org/content/10.1101/2020.06.08.20125567v1
 
 
-# Jupyter notebooks
+# Figures
 
-The analysis in the paper was performed using Jupyter notebooks.
-The analysis was performed in a [Nextstrain conda environment](https://nextstrain.org/docs/getting-started/local-installation#install-augur--auspice-with-conda-recommended) which will give you the necessary python libraries.
+Analysis in the paper was performed using Jupyter notebooks and Nextstrain.
+I suggest installing the [Nextstrain conda environment](https://nextstrain.org/docs/getting-started/local-installation#install-augur--auspice-with-conda-recommended) as well as jupyter (e.g. `pip install jupyterlab`).
+Full resolution figures can be found in `./figures`.
 
-Figure 1 is produced by `notebooks/lags.ipynb`.
+**Figure 1**, "Progress of genomic surveillance over the course of the outbreak", is produced by `./notebooks/lags.ipynb`.
 
+**Figure 2**, "Broad scale spatiotemporal dynamics of the EVD outbreak in Nord Kivu province DRC", comprises screenshots from Auspice of the `./auspice/ebola-narrative-ms_full-build.json` dataset.
+
+**Figure 3**, "Transmission patterns within and between health zones", as well as corresponding supplementary figures, are produced by `./notebooks/chains.ipynb`
+
+
+
+
+**Supplementary Figure 2 & 3** is produced by the same notebook as Figure 3 (`./notebooks/chains.ipynb`)
 
 # Extended methods
 
